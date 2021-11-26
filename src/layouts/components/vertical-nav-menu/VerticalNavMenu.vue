@@ -15,9 +15,9 @@
         class="d-flex align-center text-decoration-none"
       >
         <v-img
-          :src="require('@/assets/images/logos/logo.svg')"
-          max-height="30px"
-          max-width="30px"
+          :src="require('@/assets/images/misc/trophy.png')"
+          max-height="50px"
+          max-width="50px"
           alt="logo"
           contain
           eager
@@ -25,7 +25,7 @@
         ></v-img>
         <v-slide-x-transition>
           <h2 class="app-title text--primary">
-            MATERIO
+            CAMPEÃO
           </h2>
         </v-slide-x-transition>
       </router-link>
@@ -38,7 +38,7 @@
       class="vertical-nav-menu-items pr-5"
     >
       <nav-menu-link
-        title="Dashboard"
+        title="HOME"
         :to="{ name: 'dashboard' }"
         :icon="icons.mdiHomeOutline"
       ></nav-menu-link>

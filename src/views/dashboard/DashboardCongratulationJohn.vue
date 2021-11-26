@@ -3,7 +3,7 @@
     <v-row class="ma-0 pa-0">
       <v-col cols="8">
         <v-card-title class="text-no-wrap pt-1 ps-2">
-          Congratulations John! 🥳
+          Congratulations Tavares! 🥳
         </v-card-title>
         <v-card-subtitle class="text-no-wrap ps-2">
           You have won Trophy
