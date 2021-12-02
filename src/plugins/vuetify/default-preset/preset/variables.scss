@@ -1,7 +1,7 @@
 // Shades
 // ? We updated black value because our template design have `rgb(94, 86, 105)` as black instead of solid black
 $shades: (
-  'black': #5e5669,
+  'black': #1b191d,
   'white': #fff,
   'transparent': transparent,
 );
@@ -265,8 +265,8 @@ $material-dark: map-deep-merge(
   $material-dark,
   (
     // ! Value of `map-deep-get($material-dark, 'cards')`
-      'app-bar': #312d4b,
-    'background': #28243d,
+      'app-bar': #423e5f,
+    'background': #34228a,
     'cards': #312d4b,
     'calendar': (
       // ! Value of `map-deep-get($material-dark, 'cards')`
